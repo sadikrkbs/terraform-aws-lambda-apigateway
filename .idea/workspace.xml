@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f70886a-f32d-404f-8ff6-775da9fbae30" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2iSTWuzDKGujhDedIW5mDwoHtqC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.index.js.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "javascript.nodejs.core.library.configured.version": "20.10.0",
+    "javascript.nodejs.core.library.typings.version": "20.10.8",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sadi45\IdeaProjects\terraform-aws-lambda-basic" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f70886a-f32d-404f-8ff6-775da9fbae30" name="Changes" comment="" />
+      <created>1719483016215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719483016215</updated>
+      <workItem from="1719483017302" duration="25844000" />
+    </task>
+    <task id="LOCAL-00001" summary="delete credentials">
+      <option name="closed" value="true" />
+      <created>1719483387641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719483387641</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add main tf code">
+      <option name="closed" value="true" />
+      <created>1719483509196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719483509196</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add readme and lambda function">
+      <option name="closed" value="true" />
+      <created>1719486099614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719486099614</updated>
+    </task>
+    <task id="LOCAL-00004" summary="remove initialize_and_push.ps1 data">
+      <option name="closed" value="true" />
+      <created>1719486166156</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719486166156</updated>
+    </task>
+    <task id="LOCAL-00005" summary="reconfigure cloudwatch">
+      <option name="closed" value="true" />
+      <created>1719528432110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719528432110</updated>
+    </task>
+    <task id="LOCAL-00006" summary="reconfigure cloudwatch">
+      <option name="closed" value="true" />
+      <created>1719529085003</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719529085003</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add latest changes">
+      <option name="closed" value="true" />
+      <created>1720461352310</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720461352310</updated>
+    </task>
+    <task id="LOCAL-00008" summary="remove variables">
+      <option name="closed" value="true" />
+      <created>1720461424087</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720461424087</updated>
+    </task>
+    <task id="LOCAL-00009" summary="changed readme file">
+      <option name="closed" value="true" />
+      <created>1720461612546</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720461612546</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete credentials" />
+    <MESSAGE value="add main tf code" />
+    <MESSAGE value="add readme and lambda function" />
+    <MESSAGE value="remove initialize_and_push.ps1 data" />
+    <MESSAGE value="reconfigure cloudwatch" />
+    <MESSAGE value="add latest changes" />
+    <MESSAGE value="remove variables" />
+    <MESSAGE value="changed readme file" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed readme file" />
+  </component>
+</project>
